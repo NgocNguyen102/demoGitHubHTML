@@ -1,9 +1,3 @@
-h1 {
-    background-color: aqua;
-}
-#top {
-    background-color: cyan;
-    width: 100%;
-    height: 60px;
-    margin:0;
+.top {
+    color: red;
 }
